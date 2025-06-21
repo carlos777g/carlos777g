@@ -13,7 +13,40 @@
   </a>
 </p>
 
-<!-- Breve presentación -->
+## 🙋‍♂️ About Me
+
+<p align="left">
+  <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="40%" align="right"/>
+  <i>
+    Telematics engineering student passionate about technology, innovation, and solving real-world problems. 
+    Constantly developing skills in fullstack web development, management of Linux systems, network automation, and cybersecurity.
+    Currently focused on growing as an engineer, mastering modern web technologies, and learning how networks and data systems interconnect to shape our digital world.
+    Always open to collaboration and eager to contribute to meaningful projects.
+  </i>
+</p>
+
+---
+
+- 🌐 Currently learning advanced topics in networking, React, and backend development
+- 🎓 Telematics Engineering @ UPIITA (IPN), Mexico
+- 📫 How to reach me: gcarlosjael@gmail.com
+- 📷 Find me on Instagram: [@soy_carlsjr](https://www.instagram.com/soy_carlsjr/)
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
+
+<!-- pie de página -->
 <p align="center">
   📍 Based in Mexico &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Telematics Engineering @ UPIITA &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Learning React, Node.js & Network Automation
 </p>
