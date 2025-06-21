@@ -20,13 +20,13 @@
 
 <!-- Redes sociales -->
 <p align="center">
-  <a href="https://github.com/tu_usuario" target="_blank">
+  <a href="https://github.com/carlos777g" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/guill%C3%A9n-gonz%C3%A1lez-carlos-jael-779ab2312/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@dominio.com">
+  <a href="mailto:gcarlosjael@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
