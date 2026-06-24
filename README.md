@@ -56,7 +56,7 @@
   <a href="https://github.com/carlos777g" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/guill%C3%A9n-gonz%C3%A1lez-carlos-jael-779ab2312/" target="_blank">
+  <a href="www.linkedin.com/in/carlos-jael-guillén-gonzález" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gcarlosjael@gmail.com">
