@@ -27,10 +27,10 @@
 
 ---
 
-- 🌐 Currently learning advanced topics in networking, React, and backend development
+- 📖 Currently learning advanced topics in networking, React, and backend development
 - 🎓 Telematics Engineering @ UPIITA (IPN), Mexico
 - 📫 How to reach me: gcarlosjael@gmail.com
-- 📷 Find me on Instagram: [@soy_carlsjr](https://www.instagram.com/soy_carlsjr/)
+- 🌐 See my web: [carworks.dev](https://carworks.dev/)
 
 ---
 
